@@ -3,11 +3,14 @@
 ## Environment Setup for Mac
 * Install [Homebrew](https://brew.sh/) (If you don’t have it)
 * Install NPM & Node.js
-    Install
+    
+Install
 ```bash 
 brew install npm
 ```
-   Check the installation
+
+Check the installation
+    
 ```bash 
 node -v 
 npm -v
